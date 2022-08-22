@@ -27,7 +27,7 @@ See the wiki page and documentation [here](https://github.com/kubernetes-client/
 
 If you need support, start with checking whether you're hitting known issues. If that doesn't work, please [open an issue](https://github.com/kubernetes-client/java/issues/new)
 to describe the cases. Additionally, before you file an issue, please search [existing issues](https://github.com/kubernetes-client/java/issues)
-to see if your issue is 
+to see if your issue is
 already covered.
 
 You can also reach out to us via [#kubernetes-client](https://kubernetes.slack.com/messages/kubernetes-clients/) slack 
